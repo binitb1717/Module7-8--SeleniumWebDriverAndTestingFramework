@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite" parallel="false" >
+<test name="Tj">
+<parameter name="username" value="tejasgulhane@gmail.com"/>
+<parameter name="password" value="Tej1234"/>
+<classes>
+<class name="Module_7.Que17"/>
+</classes>
+</test>
+
+<test name="Bt">
+<parameter name="username" value="Bt@gmail.com"/>
+<parameter name="password" value="Bt14562"/>
+<classes>
+<class name="Module_7.Que17"/>
+</classes>
+</test>
+</suite>
