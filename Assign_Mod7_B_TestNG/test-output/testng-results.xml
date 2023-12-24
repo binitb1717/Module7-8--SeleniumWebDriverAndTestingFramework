@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-15T23:48:05 IST" name="Suite" finished-at="2023-12-15T23:48:24 IST" duration-ms="18987">
+    <groups>
+    </groups>
+    <test started-at="2023-12-15T23:48:05 IST" name="Tj" finished-at="2023-12-15T23:48:15 IST" duration-ms="9931">
+      <class name="demo.Q17facebook_Demo">
+        <test-method signature="f(java.lang.String,java.lang.String)[pri:0, instance:demo.Q17facebook_Demo@24fcf36f]" started-at="2023-12-15T23:48:05 IST" name="f" finished-at="2023-12-15T23:48:15 IST" duration-ms="9875" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tejasgulhane@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tej1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- demo.Q17facebook_Demo -->
+    </test> <!-- Tj -->
+    <test started-at="2023-12-15T23:48:15 IST" name="Bt" finished-at="2023-12-15T23:48:24 IST" duration-ms="8944">
+      <class name="demo.Q17facebook_Demo">
+        <test-method signature="f(java.lang.String,java.lang.String)[pri:0, instance:demo.Q17facebook_Demo@593aaf41]" started-at="2023-12-15T23:48:15 IST" name="f" finished-at="2023-12-15T23:48:24 IST" duration-ms="8940" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Bt@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Bt14562]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- demo.Q17facebook_Demo -->
+    </test> <!-- Bt -->
+  </suite> <!-- Suite -->
+</testng-results>
